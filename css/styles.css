@@ -731,6 +731,19 @@ section {
     left: auto !important;
 }
 
+/* ============================================ */
+/* ERZWINGE, DASS DER ZEITSTRAHL ALLE BLÖCKE UMFASST */
+/* ============================================ */
+.timeline {
+    display: flex;
+    flex-direction: column;
+}
+
+.timeline::after {
+    height: 100% !important;
+    bottom: 0 !important;
+}
+
 
 
 
