@@ -693,6 +693,28 @@ section {
     text-align: left;
 }
 
+
+
+
+
+
+.timeline-item:first-child {
+    left: 0 !important;
+}
+
+.timeline-item:first-child .timeline-date {
+    right: -180px !important;
+    text-align: right !important;
+}
+
+.timeline-item:first-child::after {
+    right: -10px !important;
+    left: auto !important;
+}
+
+
+
+
 .timeline-content {
     padding: 20px 30px;
     background-color: var(--background-color);
