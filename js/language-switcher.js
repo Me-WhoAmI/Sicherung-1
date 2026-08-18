@@ -65,7 +65,7 @@ const translations = {
 
         
         "experience_title": "Berufliche Erfahrung",
-        "exp1_date": "seit 09/2024 - heute",
+        "exp1_date": "seit 09/2024 - 07/2026",
         "exp1_title": "Berufliche Neuorientierung",
         "exp1_company": "Selbständig",
         "exp1_subtitle_ai": "Künstliche Intelligenz & Systemverständnis",
@@ -364,7 +364,7 @@ const translations = {
 
         
         "experience_title": "Professional Experience",
-        "exp1_date": "since 09/2024 - present",
+        "exp1_date": "since 09/2024 - 07/2026",
         "exp1_title": "Professional Reorientation",
         "exp1_company": "Self-employed",
         "exp1_subtitle_ai": "Artificial Intelligence & System Understanding",
