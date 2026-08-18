@@ -351,7 +351,6 @@ const translations = {
         "interest_tech": "New Technologies",
         
         // Erfahrung-Sektion
-        // NEW BLOCK - Global AI Presence & Internationalization
 "exp2_date_new": "since 08/2026 - present",
 "exp2_title_new": "Global AI Presence & Internationalization",
 "exp2_company_new": "Self-employed",
