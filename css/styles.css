@@ -687,9 +687,9 @@ section {
     font-size: 0.9rem;
 }
 
-.timeline-item:nth-child(odd) .timeline-date { right: -180px; }
+.timeline-item:nth-child(odd) .timeline-date { right: -200px; }
 .timeline-item:nth-child(even) .timeline-date {
-    left: -180px;
+    left: -200px;
     text-align: left;
 }
 
