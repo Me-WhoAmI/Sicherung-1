@@ -715,7 +715,7 @@ section {
 .timeline-content ul li { margin-bottom: 0.5rem; }
 
 /* ============================================ */
-/* NUR DAS – für den ersten Block (NEU) */
+/* NEUER BLOCK – erzwinge links (NUR DAS!) */
 /* ============================================ */
 .timeline-item:first-child {
     left: 0 !important;
@@ -734,16 +734,10 @@ section {
 /* ============================================ */
 /* ERZWINGE, DASS DER ZEITSTRAHL ALLE BLÖCKE UMFASST */
 /* ============================================ */
-.timeline {
-    display: flex;
-    flex-direction: column;
-}
-
 .timeline::after {
     height: 100% !important;
     bottom: 0 !important;
 }
-
 
 
 
