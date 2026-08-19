@@ -298,31 +298,7 @@
         font-size: 0.9rem;
     }
 
-        /* ============================================ */
-    /* NEU: ERSTEN BLOCK FÜR TABLET-LANDSCAPE ÜBERSCHREIBEN */
-    /* ============================================ */
-    .timeline-item:first-child {
-        left: 0 !important;
-        width: 100% !important;
-        padding-left: 60px !important;
-        padding-right: 20px !important;
-    }
 
-    .timeline-item:first-child::after {
-        left: 20px !important;        /* ← Punkt auf den Zeitstrahl */
-        right: auto !important;
-    }
-
-    .timeline-item:first-child .timeline-date {
-        position: relative !important;
-        top: auto !important;
-        right: auto !important;
-        left: auto !important;
-        width: auto !important;
-        text-align: left !important;
-        margin-bottom: 10px !important;
-        font-size: 0.85rem !important;
-    }
 
     
     /* === SKILLS SECTION === */
@@ -819,6 +795,7 @@
         font-size: 0.8rem;
     }
 
+
     
     /* ============================================ */
     /* ERSTEN BLOCK FÜR MOBILE ANPASSEN */
@@ -1240,6 +1217,36 @@
     .timeline-content ul li {
         font-size: 0.9rem;
     }
+
+
+        /* ============================================ */
+    /* NEU: ERSTEN BLOCK FÜR TABLET-LANDSCAPE ÜBERSCHREIBEN */
+    /* ============================================ */
+    .timeline-item:first-child {
+        left: 0 !important;
+        width: 100% !important;
+        padding-left: 60px !important;
+        padding-right: 20px !important;
+    }
+
+    .timeline-item:first-child::after {
+        left: 20px !important;        /* ← Punkt auf den Zeitstrahl */
+        right: auto !important;
+    }
+
+    .timeline-item:first-child .timeline-date {
+        position: relative !important;
+        top: auto !important;
+        right: auto !important;
+        left: auto !important;
+        width: auto !important;
+        text-align: left !important;
+        margin-bottom: 10px !important;
+        font-size: 0.85rem !important;
+    }
+
+    
+    
 
        /* === SPEZIELLE ANPASSUNGEN === */
     h4[data-i18n="exp1_subtitle_strategic"] {
