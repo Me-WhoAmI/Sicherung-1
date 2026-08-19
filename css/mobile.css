@@ -839,11 +839,16 @@
         transform: none !important;
     }
 
+    /* 3. Inhalt des ersten Blocks – linkes Padding reduzieren */
+.timeline-item:first-child .timeline-content {
+    padding-left: 5px !important;   /* oder 0, wenn es direkt am Rand sein soll */
+}
+
     .timeline-item:first-child .timeline-date {
         position: relative !important;
         top: auto !important;
         right: auto !important;
-        left: auto !important;
+        left: 0 !important;
         width: auto !important;
         text-align: left !important;
         margin-bottom: 8px !important;
