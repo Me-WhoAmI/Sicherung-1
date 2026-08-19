@@ -836,6 +836,7 @@
     .timeline-item:first-child::after {
         left: 10px !important;
         right: auto !important;
+        transform: none !important;
     }
 
     .timeline-item:first-child .timeline-date {
