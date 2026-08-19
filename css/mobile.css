@@ -815,14 +815,14 @@
 
     /* 3. Inhalt des ersten Blocks – linkes Padding reduzieren */
 .timeline-item:first-child .timeline-content {
-    padding-left: 5px !important;   /* inneres Padding der Textbox */
+    padding-left: 10px !important;   /* inneres Padding der Textbox */
 }
 
     .timeline-item:first-child .timeline-date {
         position: relative !important;
         top: auto !important;
         right: auto !important;
-        left: 40px !important; /* Datum linksbündig */
+        left: 20px !important; /* Datum linksbündig */
         width: auto !important;
         text-align: left !important;
         margin-bottom: 8px !important;
