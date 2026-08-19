@@ -309,7 +309,7 @@
     }
 
     .timeline-item:first-child::after {
-        left: 20px !important;        /* ← Punkt auf den Zeitstrahl */
+        left: 0 !important;        /* ← Punkt auf den Zeitstrahl */
         right: auto !important;
     }
 
