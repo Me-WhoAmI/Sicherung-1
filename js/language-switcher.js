@@ -55,7 +55,7 @@ const translations = {
         
         // Erfahrung-Sektion
 "exp2_date_new": "seit 08/2026 - heute",
-"exp2_title_new": "Globale KI-Präsenz & Internationalisierung",
+"exp2_title_new": "Globale KI-Präsenz",
 "exp2_company_new": "Selbständig",
 "exp2_item1_new": "Flüssige englische Kommunikation über KI-Ökosysteme – Systemdesign, Agenten, RAG, MLOps, Security, Governance & Abwägung",
 "exp2_item2_new": "Englische Fachgespräche zu AI/ML-Theorie, Modellarchitekturen (Transformer), Training/Inferenz & Hardware/Infrastruktur",
@@ -352,7 +352,7 @@ const translations = {
         
         // Erfahrung-Sektion
 "exp2_date_new": "since 08/2026 - present",
-"exp2_title_new": "Global AI Presence & Internationalization",
+"exp2_title_new": "Global AI Presence",
 "exp2_company_new": "Self-employed",
 "exp2_item1_new": "Fluent English communication about AI ecosystems – system design, agents, RAG, MLOps, security, governance & trade-offs",
 "exp2_item2_new": "English technical discussions on AI/ML theory, model architectures (transformers), training/inference & hardware/infrastructure",
