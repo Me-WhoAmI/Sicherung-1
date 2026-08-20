@@ -298,13 +298,6 @@
         font-size: 0.9rem;
     }
 
-    .timeline-content h3 {  /* ← trifft auf ALLE h3 in .timeline-content zu */
-    font-size: 1.2rem;
-    word-break: break-word;
-    -webkit-hyphens: auto;
-    -ms-hyphens: auto;
-    hyphens: auto;
-}
 /* ============================================ */
 /* ERSTEN BLOCK FÜR ALLE <=768px (einheitlich)  */
 /* ============================================ */
